@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @My21bernate
-- 👀 I’m interested in leanring how to code so I can eventually become a Front End Web Developer
-- 🌱 I’m currently learning HTML and CSS
+- 👀 I’m interested in learning how to code so I can eventually become a Front End Web Developer
 - 💞️ I’m looking to collaborate on ...Let me think on this one!
 - 📫 How to reach me ...TBC (as soon as possible)
 
